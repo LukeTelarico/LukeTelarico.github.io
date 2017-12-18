@@ -6,7 +6,7 @@ permalink: /about/
 
 <table>
   <tr>
-    <th>Orance County Area </th><th>- -</th>
+    <th>Orange County Area </th><th>- -</th>
     <th> Born March 28, 1994 </th><th>- -</th>
     <th> CSUF Class of 2017 (ISDS - Decision Sciences)</th>
   </tr>
@@ -18,4 +18,4 @@ My hobbies include fantasy baseball, CSFBL, all kinds of rock music, and searchi
 
 ### Contact me
 
-[cltelarico@yahoo.com](mailto:cltelarico@yahoo.com)
+[luketelarico21@gmail.com](mailto:luketelarico21@gmail.com)
