@@ -6,8 +6,8 @@ permalink: /about/
 
 <table>
   <tr>
-    <th>Orance County Area </th>
-    <th> Born March 28, 1994 </th>
+    <th>Orance County Area </th><th></th>
+    <th> Born March 28, 1994 </th><th></th>
     <th> CSUF Class of 2017 (ISDS - Decision Sciences)</th>
   </tr>
  </table>
