@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Orance County Area | Born March 28, 1994 | CSUF Class of 2017 (ISDS - Decision Sciences)
+---|---|---
 
 ### More Information
 
