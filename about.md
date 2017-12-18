@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Orance County Area | Born March 28, 1994 | CSUF Class of 2017 (ISDS - Decision Sciences)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My hobbies include fantasy baseball, CSFBL, all kinds of rock music, and searching for good Mexican restaurants
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cltelarico@yahoo.com](mailto:cltelarico@yahoo.com)
