@@ -4,15 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-<table>
-  <tr>
-    <th>
-      <ul>Orange County Area</ul>
-      <ul>Born March 28, 1994</ul>
-      <ul>CSUF Class of 2017 (ISDS - Decision Sciences)</ul>
-    </th>
-  </tr>
- </table>
+  <ul>Orange County Area</ul>
+  <ul>Born March 28, 1994</ul>
+  <ul>CSUF Class of 2017 (ISDS - Decision Sciences)</ul>
 
 ### More Information
 
