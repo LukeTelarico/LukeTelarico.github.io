@@ -3,9 +3,6 @@
   <head>
     <title>MLB RSS News Feed</title>
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    
     <!-- MLB RSS feed -->
       <script type="text/javascript" src="https://www.google.com/jsapi"></script>
       <script src="http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.js"
@@ -56,8 +53,8 @@
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+    <div id="body">
+    <div id="feedControl">Loading...</div>
     </div>
 
     <div class="wrapper-footer">
@@ -67,10 +64,6 @@
           <a href="https://open.spotify.com/user/cltelarico"> <img src="https://github.com/LukeTelarico/LukeTelarico.github.io/blob/master/images/Spotify-icon.jpg?raw=true")/></a>
         </footer>
       </div>
-    </div>
-    
-    <div id="body">
-    <div id="feedControl">Loading...</div>
     </div>
 
     {% include analytics.html %}
