@@ -6,7 +6,7 @@ permalink: /about/
 
 <table>
   <tr>
-    <th colspan="2"><img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAArjAAAAJDIwOGE1YTM5LTlkMDEtNGUwNi1iODM1LWIxNDIzNmEyOWZkNg.jpg"/></th>
+    <th><img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAArjAAAAJDIwOGE1YTM5LTlkMDEtNGUwNi1iODM1LWIxNDIzNmEyOWZkNg.jpg"/></th>
     <th>
       <ul>Orange County Area</ul>
       <ul>Born March 28, 1994</ul>
