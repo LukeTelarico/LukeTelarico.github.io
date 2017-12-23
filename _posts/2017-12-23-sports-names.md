@@ -47,7 +47,7 @@ We go through five different categories to systematically declare a winner for b
         <td>Rusty Kuntz</td><td>9 points</td><td>Double whammy with this guy. It’s a little too obvious here, but minus one point for being inappropriate.</td>
     </tr>
     <tr>
-        <td>Hampus Lindholm</td><td>8 points</td><td>Merry Hampus everyone! There is also <a href=https://en.wikipedia.org/wiki/Krampus>Krampus</a>, both holiday themed.</td>
+        <td>Hampus Lindholm</td><td>8 points</td><td>Merry Hampus everyone! There is also <a href="https://en.wikipedia.org/wiki/Krampus">Krampus</a>, both holiday themed.</td>
     </tr>
     <tr>
         <td>Nomar Garciaparra</td><td>6 points</td><td>It kinda sounds like “no more”.</td>
