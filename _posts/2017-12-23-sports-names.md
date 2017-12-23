@@ -32,7 +32,7 @@ We go through five different categories to systematically declare a winner for b
         <td>Dick Butkus</td><td>5 points</td><td>As far as flow, it seems kind of average.</td>
     </tr>
 </table>
-
+<br>
 <table>The next category here is “similarity to a random word”. It has to be a word or phrase that immediately jumps out at you. I am not trying to dig through the dictionary to find a connection.
     <tr>
         <th>Name</th><th>Points</th><th>Reason</th>
@@ -56,7 +56,7 @@ We go through five different categories to systematically declare a winner for b
         <td>Dick Butkus</td><td>8 points</td><td>Also very obvious, and with two points penalties.</td>
     </tr>
 </table>
-
+<br>
 <table>Creativity is our third category. If your first name is in the dictionary, you won’t get points here. You also don’t get points for a basic name, like Chris. And remember, they play in America, so foreign names gain an advantage.
     <tr>
         <th>Name</th><th>Points</th><th>Reason</th>
@@ -80,7 +80,7 @@ We go through five different categories to systematically declare a winner for b
         <td>Dick Butkus</td><td>2 points</td><td>I'm assuming that Dick is short for Richard, which is pretty basic in my opinion.</td>
     </tr>
 </table>
-
+<br>
 <table>Next we move onto the fear factor of the name itself. All of these names are pretty tame for the most part, so I will be looking for any tiny little things.
     <tr>
         <th>Name</th><th>Points</th><th>Reason</th>
@@ -104,7 +104,7 @@ We go through five different categories to systematically declare a winner for b
         <td>Dick Butkus</td><td>2 points</td><td>Not sure where to go here, so I won’t hazard an explanation. Next category please.</td>
     </tr>
 </table>
-
+<br>
 <table>The final category here is general talent to promote notoriety. I will take awards and honors into consideration, more so than actual stats like WAR.
     <tr>
         <th>Name</th><th>Points</th><th>Reason</th>
@@ -128,5 +128,5 @@ We go through five different categories to systematically declare a winner for b
         <td>Dick Butkus</td><td>10 points</td><td>He made two all decade teams, the NFL hall of fame, and a lot of Pro Bowls. He is often used as the ideal for middle linebackers. Pretty great career.</td>
     </tr>
 </table>
-
+<br>
 <p>The pursuit for the best name here was actually a very close, two-man race. Nomar Garciaparra came very close to winning on the strength of sound and creativity. He scored a 37 out of a possible 50 points. But the winner here was Dikembe Mutombo with 38 points. The fear factor and hall of fame career will ensure that any kid who is named Dikembe will get to hear about Mutombo. Congratulations on winning the inaugural ridiculous scoring article! It is a very prestigious honor indeed. The other contestants scored the following number of points. Yangervis: 22, Rusty: 16, Hampus: 26, Butkus: 27.</p>
